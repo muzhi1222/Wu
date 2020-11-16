@@ -4,7 +4,8 @@
       alt="Quasar logo"
       src="~assets/quasar-logo-full.svg"
     >
-    <q-btn>ffffffffffffffffffffffffffffffff</q-btn>
+    <q-btn>ddd</q-btn>
+    <q-btn>eee</q-btn>
   </q-page>
 </template>
 
